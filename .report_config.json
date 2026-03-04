@@ -1,8 +1,9 @@
 {
-  "total_reports": 10,
-  "latest_report": "global-conflict-20260304_1529.html",
-  "last_updated": "2026-03-04 07:30:03 UTC",
+  "total_reports": 11,
+  "latest_report": "global-conflict-20260304_1700.html",
+  "last_updated": "2026-03-04 09:00:14 UTC",
   "reports": [
+    "global-conflict-20260304_1700.html",
     "global-conflict-20260304_1529.html",
     "global-conflict-20260304_1502.html",
     "global-conflict-20260304_0647.html",
