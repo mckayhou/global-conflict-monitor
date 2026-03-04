@@ -8,21 +8,22 @@
 
 | 日期时间 | 报告 | 状态 |
 |----------|------|------|
-| 2026-03-04 06:26 | [20260304_0626](reports/global-conflict-20260304_0626.html) | 🟢 最新 |
-| 2026-03-04 06:00 | [20260304_0600](reports/global-conflict-20260304_0600.html) | ✅ 已发布 |
-| 2026-03-04 04:47 | [20260304_0447](reports/global-conflict-20260304_0447.html) | ✅ 已发布 |
-| 2026-03-04 04:42 | [20260304_0442](reports/global-conflict-20260304_0442.html) | ✅ 已发布 |
-| 2026-03-04 04:33 | [20260304_0433](reports/global-conflict-20260304_0433.html) | ✅ 已发布 |
-| 2026-03-04 04:32 | [20260304_0432](reports/global-conflict-20260304_0432.html) | ✅ 已发布 |
-| 2026-03-04 04:30 | [20260304_0430](reports/global-conflict-20260304_0430.html) | ✅ 已发布 |
+| 2026-03-04 06:47 | [global-conflict-20260304_0647](reports/global-conflict-20260304_0647.html) | 🟢 最新 |
+| 2026-03-04 06:26 | [global-conflict-20260304_0626](reports/global-conflict-20260304_0626.html) | ✅ 已发布 |
+| 2026-03-04 06:00 | [global-conflict-20260304_0600](reports/global-conflict-20260304_0600.html) | ✅ 已发布 |
+| 2026-03-04 04:47 | [global-conflict-20260304_0447](reports/global-conflict-20260304_0447.html) | ✅ 已发布 |
+| 2026-03-04 04:42 | [global-conflict-20260304_0442](reports/global-conflict-20260304_0442.html) | ✅ 已发布 |
+| 2026-03-04 04:33 | [global-conflict-20260304_0433](reports/global-conflict-20260304_0433.html) | ✅ 已发布 |
+| 2026-03-04 04:32 | [global-conflict-20260304_0432](reports/global-conflict-20260304_0432.html) | ✅ 已发布 |
+| 2026-03-04 04:30 | [global-conflict-20260304_0430](reports/global-conflict-20260304_0430.html) | ✅ 已发布 |
 
 ---
 
 ## 📈 统计信息
 
-- **总报告数:** 7
-- **今日报告:** 7
-- **最新更新时间:** 2026 年03 月04 日 06:37 (北京时间)
+- **总报告数:** 8
+- **今日报告:** 8
+- **最新更新时间:** 2026-03-04 06:47 UTC
 
 ---
 
@@ -44,4 +45,4 @@
 
 ---
 
-*最后更新：2026 年03 月04 日 06:37 北京时间*
+*最后更新：2026-03-04 06:47 UTC*
