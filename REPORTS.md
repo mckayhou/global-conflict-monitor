@@ -8,7 +8,8 @@
 
 | 日期时间 | 报告 | 状态 |
 |----------|------|------|
-| 2026-03-05 14:00 | [global-conflict-20260305_1400](reports/global-conflict-20260305_1400.html) | 🟢 最新 |
+| 2026-03-05 17:00 | [global-conflict-20260305_1700](reports/global-conflict-20260305_1700.html) | 🟢 最新 |
+| 2026-03-05 14:00 | [global-conflict-20260305_1400](reports/global-conflict-20260305_1400.html) | ✅ 已发布 |
 | 2026-03-05 11:00 | [global-conflict-20260305_1100](reports/global-conflict-20260305_1100.html) | ✅ 已发布 |
 | 2026-03-05 08:21 | [global-conflict-20260305_0821](reports/global-conflict-20260305_0821.html) | ✅ 已发布 |
 | 2026-03-05 08:00 | [global-conflict-20260305_0800](reports/global-conflict-20260305_0800.html) | ✅ 已发布 |
@@ -27,15 +28,14 @@
 | 2026-03-04 06:47 | [global-conflict-20260304_0647](reports/global-conflict-20260304_0647.html) | ✅ 已发布 |
 | 2026-03-04 06:26 | [global-conflict-20260304_0626](reports/global-conflict-20260304_0626.html) | ✅ 已发布 |
 | 2026-03-04 06:00 | [global-conflict-20260304_0600](reports/global-conflict-20260304_0600.html) | ✅ 已发布 |
-| 2026-03-04 04:47 | [global-conflict-20260304_0447](reports/global-conflict-20260304_0447.html) | ✅ 已发布 |
 
 ---
 
 ## 📈 统计信息
 
-- **总报告数:** 24
-- **今日报告:** 24
-- **最新更新时间:** 2026-03-05 06:00 UTC
+- **总报告数:** 25
+- **今日报告:** 25
+- **最新更新时间:** 2026-03-05 09:00 UTC
 
 ---
 
@@ -57,4 +57,4 @@
 
 ---
 
-*最后更新：2026-03-05 06:00 UTC*
+*最后更新：2026-03-05 09:00 UTC*
