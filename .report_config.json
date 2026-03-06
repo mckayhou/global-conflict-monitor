@@ -1,8 +1,9 @@
 {
-  "total_reports": 34,
-  "latest_report": "global-conflict-20260306_2300.html",
-  "last_updated": "2026-03-06 15:00:03 UTC",
+  "total_reports": 35,
+  "latest_report": "global-conflict-20260307_0100.html",
+  "last_updated": "2026-03-06 17:00:02 UTC",
   "reports": [
+    "global-conflict-20260307_0100.html",
     "global-conflict-20260306_2300.html",
     "global-conflict-20260306_2000.html",
     "global-conflict-20260306_1700.html",
@@ -21,7 +22,6 @@
     "global-conflict-20260305_0007.html",
     "global-conflict-20260304_2300.html",
     "global-conflict-20260304_2158.html",
-    "global-conflict-20260304_2120.html",
-    "global-conflict-20260304_2051.html"
+    "global-conflict-20260304_2120.html"
   ]
 }
